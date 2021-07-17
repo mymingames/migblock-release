@@ -4,80 +4,92 @@
   Key: [ + Implemented, - Deprecated, > Comment ]
 
 <b> 1.0:</b>
-  > The First Release, Compiled for Launcher Testing.
+    > The First Release, Compiled for Launcher Testing.
 
 <b> 1.1, 1.2, 1.3:</b>
-  > No information on record.
+    > No information on record.
 
 <b> 1.4:</b>
-  + Character Editor
-  + Crafting System
-  + Chests
-  + Improved Inventory
-  + Character Display To Inventory
-  + Seeds
-  + Changed Biome Scale, So Biomes are now more diverse and fun to explore,
+    + Character Editor
+    + Crafting System
+    + Chests
+    + Improved Inventory
+    + Character Display To Inventory
+    + Seeds
+    + Changed Biome Scale, So Biomes are now more diverse and fun to explore,
     but biome scale can be changed on servers
-  - Singleplayer World Detection Bug
-  - Heaps Of Bugs
+    - Singleplayer World Detection Bug
+    - Heaps Of Bugs
 
 <b> 1.4:</b>
-  + Heaps of cool character editor assets!
+    + Heaps of cool character editor assets!
 
 <b> 2.0, 2.1, 2.2:</b>
-  > No information on record.
+    > No information on record.
 
 <b> 2.3:</b>
-  + Death messages
-  + General improvements
-  - Bugs! :D
+    + Death messages
+    + General improvements
+    - Bugs! :D
 
 <b> 2.4:</b>
-  + Recipe-Book to assist in crafting.
-  + Loads of new Blocks! Sandstone and Stone Brick Types.
-  + New Paintbench that can paint Rock different colours!
-  + A Magical Wand that can clear up Water!
-  + Press and Hold the TAB-Key to view Online Players!
-  - A bunch of bugs!
+    + Recipe-Book to assist in crafting.
+    + Loads of new Blocks! Sandstone and Stone Brick Types.
+    + New Paintbench that can paint Rock different colours!
+    + A Magical Wand that can clear up Water!
+    + Press and Hold the TAB-Key to view Online Players!
+    - A bunch of bugs!
 
 <b> 3.0:</b>
-  + Added crops that you can reap and sow.
-  + Implemented a new Sapling-Mechanic to grow new Trees.
-  + Also the addition of Fruit Trees to grow Fruits.
-  + Added a large array off different Flowers, Crop types and
+    + Added crops that you can reap and sow.
+    + Implemented a new Sapling-Mechanic to grow new Trees.
+    + Also the addition of Fruit Trees to grow Fruits.
+    + Added a large array off different Flowers, Crop types and
     Fruits types!
-  + There're Bows now, you can have duels.
+    + There're Bows now, you can have duels.
     But Keep in mind that these're simple bows, so their not all that
     powerful. However more will come soon!
-  + Mini Maps, there are four types.
-  + Graphics options for clouds, highlights and such.
-  + An array of generic improvements, along with some bugs!
+    + Mini Maps, there are four types.
+    + Graphics options for clouds, highlights and such.
+    + An array of generic improvements, along with some bugs!
     The next patch is centered around stability and bug works.
 
 <b> 3.1:</b>
-  + Too many improvements to note!
+    + Too many improvements to note!
 
 <b> 3.2:</b>
-  + next layer added to tech tree, will be improved more in 3.3
+    + next layer added to tech tree, will be improved more in 3.3
 
 <b> 3.3:</b>
-  + HUGE performance boost and general improvements
-  + bunch of new character editor assets
-  - bugs
+    + HUGE performance boost and general improvements
+    + bunch of new character editor assets
+    - bugs
 
 <b> 3.4:</b>
-  + Bug fixes and the addition of the, thus far, Tech-Treeless Tarstone layer!
+    + Bug fixes and the addition of the, thus far, Tech-Treeless Tarstone layer!
 
 <b> 3.5:</b>
-  + Add Base Tarstone Techtree.
-  + Some new Character Editor Assets!
+    + Add Base Tarstone Techtree.
+    + Some new Character Editor Assets!
 
-  <b> 3.5:</b>
-  + Shooting directly downwards no longer hurts the player.
-  + Cosmolite, Rhodolite, Columnbranium and Tenticlicium Guns.
-  + Tarstone Mineral Blocks.
-  + Hotbar Gestures.
-  + Arrow Trails.
-  + Improve water substantially.
+<b> 3.5:</b>
+    + Shooting directly downwards no longer hurts the player.
+    + Cosmolite, Rhodolite, Columnbranium and Tenticlicium Guns.
+    + Tarstone Mineral Blocks.
+    + Hotbar Gestures.
+    + Arrow Trails.
+    + Improve water substantially.
+
+<b> 4.0:</b>
+    + Seasons and Day Cycles!
+    + Buff bullet-projectile speeds.
+    + Creature-System Basics.
+    + New Main-Menu!
+    + Huge Performance Enhancements.
+    + Optimized Corpse System.
+    + F1 now hides HUD.
+    + Dynamic Lighting, Torches and Shadows.
+    + Lots of ground work for future systems.
+    - Removed a considerable amount of bugs.
 
  Please join our Discord-Guild if you've any feedback at all!
