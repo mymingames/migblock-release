@@ -72,7 +72,7 @@
     + Add Base Tarstone Techtree.
     + Some new Character Editor Assets!
 
-<b> 3.5:</b>
+<b> 3.6:</b>
     + Shooting directly downwards no longer hurts the player.
     + Cosmolite, Rhodolite, Columnbranium and Tenticlicium Guns.
     + Tarstone Mineral Blocks.
@@ -91,5 +91,11 @@
     + Dynamic Lighting, Torches and Shadows.
     + Lots of ground work for future systems.
     - Removed a considerable amount of bugs.
+    - Bad Performance.
+
+<b> 4.1:</b>
+    + Increase Day-Cycle length to 24 Minutes.
+    + Dynamic Lighting System.
+    - Removed another considerable amount of bugs.
 
  Please join our Discord-Guild if you've any feedback at all!
