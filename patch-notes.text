@@ -2,10 +2,19 @@
  <size=25>Beta Testing!</size> ( Version 4.4 )
 
 
-    Please enjoy, and stay tuned as a lot more is coming!
+    ATTENTION!
+        there is a bug with this release of the launcher
+        please delete the cache folder in the roaming folder
 
-    Also:
+        windows:
+            C:/Users/USER/AppData/Roaming/.migblock/cache
 
-  Please join our Discord-Guild if you've any feedback at all!
+        Linux:
+            ~/.migblock/cache
 
-  That's all for now, Have fun!
+        this will make the launcher do a full re download
+        and will fix the issue
+
+    sorry for the issue guys, we are looking into this issue
+    for now this is the best fix! for any questions dont by shy to
+    jump on discord and say hello :)
